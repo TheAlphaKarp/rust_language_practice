@@ -11,3 +11,15 @@ rand = "0.7.3"
 
 [[bin]]
 name = "guessing_game"
+
+[[bin]]
+name = "variables"
+
+[[bin]]
+name = "functions"
+
+[[bin]]
+name = "control_flow"
+
+[[bin]]
+name = "ownership"
