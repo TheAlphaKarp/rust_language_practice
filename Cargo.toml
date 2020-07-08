@@ -23,3 +23,7 @@ name = "control_flow"
 
 [[bin]]
 name = "ownership"
+
+[[bin]]
+name = "smallest_unused_id"
+path = "./src/codewars/8_kyu/smallest_unused_id.rs"
